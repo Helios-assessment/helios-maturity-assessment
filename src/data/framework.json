@@ -1,0 +1,714 @@
+[
+ {
+  "id": "L01",
+  "number": 1,
+  "name": "Marketing & Stakeholder Engagement",
+  "dimensions": [
+   {
+    "id": "L01-D1",
+    "name": "Digital Experience & Information",
+    "capabilities": [
+     "University Website",
+     "Program Microsites",
+     "Web Content Management",
+     "Digital Asset Management",
+     "SEO & SEM",
+     "Virtual Campus Tours"
+    ]
+   },
+   {
+    "id": "L01-D2",
+    "name": "Omnichannel Marketing",
+    "capabilities": [
+     "Email / SMS / WhatsApp Campaigns",
+     "Campaign Automation",
+     "Journey Orchestration",
+     "AI-Powered Personalization",
+     "Social Media Marketing",
+     "Digital Advertising"
+    ]
+   },
+   {
+    "id": "L01-D3",
+    "name": "Stakeholder Engagement",
+    "capabilities": [
+     "School & Counsellor Outreach",
+     "Parent Engagement",
+     "Education Fair & Event Management",
+     "Brand & Reputation Management",
+     "Employer / Industry Engagement"
+    ]
+   },
+   {
+    "id": "L01-D4",
+    "name": "External Integration",
+    "capabilities": [
+     "Aggregator / Portal Integration",
+     "Scholarship Portal Integration",
+     "Payment Gateway Integration",
+     "API Management"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "L02",
+  "number": 2,
+  "name": "Admissions & Onboarding",
+  "dimensions": [
+   {
+    "id": "L02-D1",
+    "name": "Enquiry & Application Management",
+    "capabilities": [
+     "Enquiry Management",
+     "Application Processing",
+     "Entrance Exam & Merit Management",
+     "Counselling & Seat Allotment",
+     "AI Application Screening & Scoring"
+    ]
+   },
+   {
+    "id": "L02-D2",
+    "name": "Enrollment & Onboarding",
+    "capabilities": [
+     "Admission Confirmation & Fee Payment",
+     "Document Verification & KYC",
+     "ID Card & Credential Issuance",
+     "Orientation & Induction Program",
+     "Program Allocation",
+     "Batch Formation",
+     "Conversational AI Onboarding Assistant"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "L03",
+  "number": 3,
+  "name": "Academic Structure & Curriculum",
+  "dimensions": [
+   {
+    "id": "L03-D1",
+    "name": "Program & Curriculum Design",
+    "capabilities": [
+     "Program Mapping",
+     "Course Mapping",
+     "Curriculum & Syllabus Design",
+     "Credit System (CBCS) Management",
+     "Elective & Specialization Management"
+    ]
+   },
+   {
+    "id": "L03-D2",
+    "name": "Academic Calendar & Governance",
+    "capabilities": [
+     "Academic Calendar Planning",
+     "Semester / Trimester Structuring",
+     "Academic Council & Board of Studies"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "L04",
+  "number": 4,
+  "name": "Batch, Faculty & Timetable Management",
+  "dimensions": [
+   {
+    "id": "L04-D1",
+    "name": "Class Organization",
+    "capabilities": [
+     "Section & Division Allocation",
+     "Faculty Allocation & Workload Mapping",
+     "Classroom & Lab Allocation"
+    ]
+   },
+   {
+    "id": "L04-D2",
+    "name": "Scheduling",
+    "capabilities": [
+     "Lecture Scheduling / Timetable Generation",
+     "Substitute & Makeup Class Management",
+     "Attendance & Roll Call"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "L05",
+  "number": 5,
+  "name": "Teaching, Learning & Academic Support",
+  "dimensions": [
+   {
+    "id": "L05-D1",
+    "name": "Content & Delivery",
+    "capabilities": [
+     "Course Content & Lesson Planning",
+     "LMS / e-Learning Delivery",
+     "Assignment & Homework Management",
+     "Lab & Practical Session Management",
+     "AI-Powered Adaptive Learning & Content Generation"
+    ]
+   },
+   {
+    "id": "L05-D2",
+    "name": "Academic Support",
+    "capabilities": [
+     "Mentorship & Academic Advising",
+     "Remedial & Bridge Courses",
+     "AI-Based Early-Warning & At-Risk Prediction"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "L06",
+  "number": 6,
+  "name": "Assessment & Examination",
+  "dimensions": [
+   {
+    "id": "L06-D1",
+    "name": "Internal Assessment",
+    "capabilities": [
+     "Internal Assessment (Assignments, Quizzes, Mid-Terms)",
+     "Continuous Evaluation & CIE",
+     "Practical / Viva Assessment",
+     "AI-Assisted Grading & Feedback"
+    ]
+   },
+   {
+    "id": "L06-D2",
+    "name": "External Assessment & Examination",
+    "capabilities": [
+     "External Assessment (End-Semester Examinations)",
+     "Examination Scheduling & Seating Plan",
+     "Hall Ticket / Admit Card Generation",
+     "AI-Enabled Invigilation & Malpractice Detection",
+     "Answer Script Evaluation",
+     "Results Processing & Declaration",
+     "Revaluation & Grievance Handling"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "L07",
+  "number": 7,
+  "name": "Academic Progression & Records",
+  "dimensions": [
+   {
+    "id": "L07-D1",
+    "name": "Progression Management",
+    "capabilities": [
+     "Semester / Academic Year Progression",
+     "Credit & Grade (GPA/CGPA) Management",
+     "Backlog / Reappear / Supplementary Management",
+     "Promotion, Detention & Condonation"
+    ]
+   },
+   {
+    "id": "L07-D2",
+    "name": "Records Management",
+    "capabilities": [
+     "Transcript & Marksheet Management",
+     "Student Academic Record (SAR) Management",
+     "Migration & Transfer Certificate Issuance",
+     "Blockchain-Verified Digital Credentials"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "L08",
+  "number": 8,
+  "name": "Residences & Campus Services",
+  "dimensions": [
+   {
+    "id": "L08-D1",
+    "name": "Residential Life",
+    "capabilities": [
+     "Hostel / Residence Allocation",
+     "Mess & Catering Management",
+     "Room Maintenance & Facility Requests"
+    ]
+   },
+   {
+    "id": "L08-D2",
+    "name": "Campus Support Services",
+    "capabilities": [
+     "Campus Security & Access Control",
+     "Health & Wellness Services",
+     "Transport Management",
+     "Grievance & Disciplinary Management",
+     "Smart Campus IoT & Predictive Maintenance"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "L09",
+  "number": 9,
+  "name": "Student Engagement & Co-Curricular Life",
+  "dimensions": [
+   {
+    "id": "L09-D1",
+    "name": "Community & Culture",
+    "capabilities": [
+     "Clubs & Societies Management",
+     "Student Council / Government Management",
+     "Cultural & Sports Activities"
+    ]
+   },
+   {
+    "id": "L09-D2",
+    "name": "Knowledge & Events",
+    "capabilities": [
+     "Events Management (Fests, Conferences, Competitions)",
+     "Seminars & Guest Lectures",
+     "Webinars & Online Sessions",
+     "Volunteering & Community Service (NSS/NCC)"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "L10",
+  "number": 10,
+  "name": "Communication, Notifications & Support",
+  "dimensions": [
+   {
+    "id": "L10-D1",
+    "name": "Communication Management",
+    "capabilities": [
+     "Notification Management",
+     "Alerts (SMS / Email / App Push)",
+     "Parent / Guardian Communication",
+     "Circulars & Announcements",
+     "AI Chatbot & Virtual Assistant"
+    ]
+   },
+   {
+    "id": "L10-D2",
+    "name": "Feedback & Support",
+    "capabilities": [
+     "Feedback & Survey Management",
+     "Helpdesk / Grievance Ticketing",
+     "Student Wellbeing & Counselling Support",
+     "AI Sentiment Analysis on Feedback"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "L11",
+  "number": 11,
+  "name": "Financial & Scholarship Management",
+  "dimensions": [
+   {
+    "id": "L11-D1",
+    "name": "Fee & Financial Management",
+    "capabilities": [
+     "Fee Structure & Billing Management",
+     "Fee Payment & Reconciliation",
+     "Fines, Penalties & Dues Management"
+    ]
+   },
+   {
+    "id": "L11-D2",
+    "name": "Scholarships & Financial Aid",
+    "capabilities": [
+     "Scholarship & Financial Aid Management",
+     "Education Loan Facilitation",
+     "Refund Management"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "L12",
+  "number": 12,
+  "name": "Graduation & Convocation",
+  "dimensions": [
+   {
+    "id": "L12-D1",
+    "name": "Degree Completion",
+    "capabilities": [
+     "Degree Audit & Eligibility Verification",
+     "No-Dues Clearance",
+     "Convocation Planning & Management",
+     "Degree / Certificate Issuance"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "L13",
+  "number": 13,
+  "name": "Alumni & Career Services",
+  "dimensions": [
+   {
+    "id": "L13-D1",
+    "name": "Alumni Transition & Engagement",
+    "capabilities": [
+     "Alumni Conversion & Onboarding",
+     "Alumni Database & Engagement Platform",
+     "Alumni Events & Networking",
+     "Alumni Giving & Endowment"
+    ]
+   },
+   {
+    "id": "L13-D2",
+    "name": "Career & Placement Services",
+    "capabilities": [
+     "Placement Cell Management",
+     "Internship Management",
+     "Career Counselling & Skill Development",
+     "Employer / Recruiter Relationship Management",
+     "Placement Analytics & Reporting",
+     "AI-Powered Job Matching & Career Recommendations"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "L14",
+  "number": 14,
+  "name": "Research & Innovation",
+  "dimensions": [
+   {
+    "id": "L14-D1",
+    "name": "Research Management",
+    "capabilities": [
+     "Grant & Funding Management",
+     "Research Project Management",
+     "Publication & IP Management",
+     "Research Ethics & Compliance"
+    ]
+   },
+   {
+    "id": "L14-D2",
+    "name": "Innovation & Incubation",
+    "capabilities": [
+     "Innovation Labs",
+     "Startup Incubation",
+     "Industry-Sponsored Research",
+     "Technology Transfer"
+    ]
+   },
+   {
+    "id": "L14-D3",
+    "name": "Research Analytics",
+    "capabilities": [
+     "Research Portfolio Analytics",
+     "Citation & Impact Tracking",
+     "Research Collaboration Management",
+     "Generative AI Research Assistant"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "L15",
+  "number": 15,
+  "name": "Finance & Enterprise Operations",
+  "dimensions": [
+   {
+    "id": "L15-D1",
+    "name": "Finance",
+    "capabilities": [
+     "Core Finance & Accounting",
+     "Budgeting & Financial Planning",
+     "Institutional Revenue Management",
+     "Treasury & Cash Management",
+     "Statutory Compliance & Taxation"
+    ]
+   },
+   {
+    "id": "L15-D2",
+    "name": "Legal & Regulatory Compliance",
+    "capabilities": [
+     "Regulatory Compliance (UGC / AICTE / NAAC)",
+     "Contract Management",
+     "Statutory Filings",
+     "Policy & Governance Management"
+    ]
+   },
+   {
+    "id": "L15-D3",
+    "name": "Vendor & Procurement Management",
+    "capabilities": [
+     "Vendor Onboarding",
+     "Procurement & Purchase Management",
+     "Contract & SLA Management",
+     "Asset & Facilities Management"
+    ]
+   },
+   {
+    "id": "L15-D4",
+    "name": "Institutional Strategy & Risk",
+    "capabilities": [
+     "Strategic Planning",
+     "Accreditation & Ranking Management (NAAC / NIRF / QS)",
+     "Risk & Audit Management"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "L16",
+  "number": 16,
+  "name": "Human Resources & Workforce",
+  "dimensions": [
+   {
+    "id": "L16-D1",
+    "name": "Talent Management",
+    "capabilities": [
+     "Faculty & Staff Recruitment",
+     "Payroll & Compensation",
+     "Performance Management",
+     "Training & Development",
+     "Leave & Attendance Management"
+    ]
+   },
+   {
+    "id": "L16-D2",
+    "name": "Workforce Planning",
+    "capabilities": [
+     "Succession Planning",
+     "Workforce Analytics",
+     "Employee Engagement & Wellbeing",
+     "AI-Assisted Resume Screening"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "L17",
+  "number": 17,
+  "name": "Digital Automation & Integration",
+  "dimensions": [
+   {
+    "id": "L17-D1",
+    "name": "Integration Platforms",
+    "capabilities": [
+     "API Gateway",
+     "Middleware",
+     "Biometric & Exam-Pad Integration",
+     "Government Portal Integration (NAD, Scholarship)"
+    ]
+   },
+   {
+    "id": "L17-D2",
+    "name": "Process Automation",
+    "capabilities": [
+     "RPA",
+     "Intelligent Document Processing (IDP)",
+     "Workflow Automation",
+     "BPM",
+     "Agentic Process Orchestration"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "L18",
+  "number": 18,
+  "name": "Enterprise Data & Analytics",
+  "dimensions": [
+   {
+    "id": "L18-D1",
+    "name": "Performance Reporting",
+    "capabilities": [
+     "Academic KPI Reporting",
+     "Financial Reporting",
+     "Admissions Funnel Reporting",
+     "Regulatory Reporting (NIRF / NAAC / AISHE)",
+     "Executive Dashboards"
+    ]
+   },
+   {
+    "id": "L18-D2",
+    "name": "Analytics & AI",
+    "capabilities": [
+     "Predictive Dropout Analytics",
+     "Enrolment Forecasting",
+     "Research Analytics",
+     "Agentic Decision Support",
+     "Generative AI / LLM Analytics"
+    ]
+   },
+   {
+    "id": "L18-D3",
+    "name": "Data Management",
+    "capabilities": [
+     "Master Data Management",
+     "Data Governance",
+     "Data Quality",
+     "Metadata Management",
+     "Data Integration"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "L19",
+  "number": 19,
+  "name": "Artificial Intelligence & Agentic Systems",
+  "dimensions": [
+   {
+    "id": "L19-D1",
+    "name": "AI Governance & Ethics",
+    "capabilities": [
+     "AI Policy & Governance",
+     "Responsible AI & Bias Auditing",
+     "AI Risk Management",
+     "Human-in-the-Loop Oversight",
+     "AI Model Documentation & Explainability"
+    ]
+   },
+   {
+    "id": "L19-D2",
+    "name": "AI Platforms & Infrastructure",
+    "capabilities": [
+     "LLM / Foundation Model Platform",
+     "Vector Database & Embeddings",
+     "AI Model Training & Fine-Tuning",
+     "MLOps & Model Lifecycle Management",
+     "AI Compute & GPU Infrastructure"
+    ]
+   },
+   {
+    "id": "L19-D3",
+    "name": "Agentic Systems & Automation",
+    "capabilities": [
+     "Agentic Workflow Orchestration",
+     "Autonomous Student Support Agents",
+     "Agentic Admissions & Enrolment Assistants",
+     "AI Copilots for Faculty & Staff",
+     "Multi-Agent Orchestration & Tool Use"
+    ]
+   },
+   {
+    "id": "L19-D4",
+    "name": "Applied AI Use Cases",
+    "capabilities": [
+     "Predictive Dropout & At-Risk Modeling",
+     "Personalized Learning Recommendations",
+     "AI-Powered Research Assistance",
+     "Conversational AI & Virtual Assistants",
+     "AI-Driven Enrollment Forecasting"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "L20",
+  "number": 20,
+  "name": "Cybersecurity & Digital Trust",
+  "dimensions": [
+   {
+    "id": "L20-D1",
+    "name": "Identity & Access Management",
+    "capabilities": [
+     "Identity Governance",
+     "Privileged Access Management",
+     "Multi-Factor Authentication",
+     "Single Sign-On",
+     "Access Certification & Reviews"
+    ]
+   },
+   {
+    "id": "L20-D2",
+    "name": "Security Operations",
+    "capabilities": [
+     "Threat Detection & SOC",
+     "Incident Response & Forensics",
+     "Vulnerability & Patch Management",
+     "Security Monitoring (SIEM / SOAR)",
+     "Red Team / Penetration Testing"
+    ]
+   },
+   {
+    "id": "L20-D3",
+    "name": "Data Protection & Privacy",
+    "capabilities": [
+     "Encryption (At-Rest & In-Transit)",
+     "DPDP Act Compliance",
+     "Data Loss Prevention",
+     "Secure Collaboration",
+     "Data Residency & Sovereignty"
+    ]
+   },
+   {
+    "id": "L20-D4",
+    "name": "Application & AI Security",
+    "capabilities": [
+     "Secure SDLC & Code Review",
+     "API Security & Gateway Protection",
+     "AI / LLM Security (Prompt Injection & Model Abuse Prevention)",
+     "Third-Party & Vendor Risk Management"
+    ]
+   },
+   {
+    "id": "L20-D5",
+    "name": "Cyber Resilience & Continuity",
+    "capabilities": [
+     "Business Continuity & Disaster Recovery",
+     "Backup & Ransomware Protection",
+     "Cyber Insurance & Risk Transfer",
+     "Security Awareness & Training"
+    ]
+   },
+   {
+    "id": "L20-D6",
+    "name": "Governance, Risk & Compliance (GRC)",
+    "capabilities": [
+     "Regulatory Compliance (ISO 27001 / NIST / DPDP)",
+     "IT Audit & Risk Assessment",
+     "Security Policy Management",
+     "Cyber Crisis Management"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "L21",
+  "number": 21,
+  "name": "Enterprise Technology Platform",
+  "dimensions": [
+   {
+    "id": "L21-D1",
+    "name": "End User Services",
+    "capabilities": [
+     "Collaboration Tools",
+     "Service Desk",
+     "Mobile Device Management",
+     "IT Service Management",
+     "Workplace Services"
+    ]
+   },
+   {
+    "id": "L21-D2",
+    "name": "Enterprise Applications",
+    "capabilities": [
+     "ERP",
+     "CRM / SLCM",
+     "LMS",
+     "HRMS",
+     "Website / CMS"
+    ]
+   },
+   {
+    "id": "L21-D3",
+    "name": "Infrastructure",
+    "capabilities": [
+     "Cloud Infrastructure",
+     "Campus Network",
+     "Storage & Backup",
+     "Compute Platforms",
+     "Smart Campus & IoT"
+    ]
+   }
+  ]
+ }
+]
