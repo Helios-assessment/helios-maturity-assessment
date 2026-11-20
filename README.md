@@ -53,7 +53,7 @@ The workbook defines 21 layers but no domains, so layers are grouped into the si
    - *Templates → Email address verification*: customise the sender name and message if you wish.
 3. **Build → Firestore Database → Create database** (production mode, choose a region close to your users, e.g. `asia-south1`).
 4. **Project settings → General → Your apps → Web (`</>`)** → register an app. Copy the `firebaseConfig` values.
-5. **Firestore rules.** Open `firestore.rules`, replace `admin@miraki23.com` with your administrator email(s) (lower-case), then paste the file into *Firestore → Rules → Publish* (or run `firebase deploy --only firestore:rules`).
+5. **Firestore rules.** Open `firestore.rules`, replace `info@miraki23.com` with your administrator email(s) (lower-case), then paste the file into *Firestore → Rules → Publish* (or run `firebase deploy --only firestore:rules`).
 
 The rules allow an authenticated user to create/read/update only their own `leads/{uid}` and `assessments/*` records; only verified emails can create or edit assessments; only listed admins can read everyone's data; nobody can delete.
 

@@ -9,7 +9,7 @@ service cloud.firestore {
     // >>> EDIT: lower-case emails of MIRAKI23 administrators who may read every lead and assessment.
     // Keep in sync with the NEXT_PUBLIC_ADMIN_EMAILS GitHub secret/variable.
     function isAdmin() {
-      return verified() && request.auth.token.email.lower() in ['admin@miraki23.com'];
+      return verified() && request.auth.token.email.lower() in ['info@miraki23.com'];
     }
 
     // Lead profile: one document per user (document id = auth uid), written at registration.
